@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"@aws-sdk/client-rds-data": "^3.721.0",
+		"kysely": "^0.27.5",
+		"kysely-data-api": "^1.0.1",
+		"pg": "^8.13.1",
+		"sst": "2.45.2"
+	},
+	"devDependencies": {
+		"typescript": "^4.3"
+	}
+}
